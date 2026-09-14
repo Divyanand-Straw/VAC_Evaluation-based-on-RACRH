@@ -2,12 +2,16 @@
   "version": 2,
   "rewrites": [
     {
-      "source": "/api/(.*)",
-      "destination": "/api/index.js"
+      "source": "/api/test-connection",
+      "destination": "/api/test-connection.js"
     },
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "source": "/api/inference",
+      "destination": "/api/inference.js"
+    },
+    {
+      "source": "/api/save-token",
+      "destination": "/api/save-token.js"
     }
   ]
 }
