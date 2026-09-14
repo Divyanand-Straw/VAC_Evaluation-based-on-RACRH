@@ -1,35 +1,9 @@
 {
-  "version": 2,
-  "builds": [
+  "rewrites": [
     {
-      "src": "api/*.js",
-      "use": "@vercel/node"
-    },
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/api/test-connection",
-      "dest": "/api/test-connection.js"
-    },
-    {
-      "src": "/api/inference",
-      "dest": "/api/inference.js"
-    },
-    {
-      "src": "/api/save-token",
-      "dest": "/api/save-token.js"
-    },
-    {
-      "src": "/favicon.ico",
-      "dest": "/logo.png"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
+      "source": "/favicon.ico",
+      "destination": "/logo.png"
     }
   ]
 }
+
