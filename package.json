@@ -1,0 +1,24 @@
+{
+  "name": "ai-clinic-assistant-evaluation",
+  "version": "1.0.0",
+  "description": "Academic RAG & Hugging Face Model Evaluation Platform with Secure Server-Side Inference",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "rag",
+    "huggingface",
+    "evaluation",
+    "llm-benchmark",
+    "retrieval-augmented-generation"
+  ],
+  "author": "Academic Value Added Course",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

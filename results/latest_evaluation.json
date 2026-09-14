@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-09-14T20:00:00.000Z",
+  "modelA": {
+    "id": "mistralai/Mistral-7B-Instruct-v0.2",
+    "name": "Mistral 7B Instruct v0.2",
+    "org": "Mistral AI",
+    "parameters": "7B"
+  },
+  "modelB": {
+    "id": "meta-llama/Llama-3.2-3B-Instruct",
+    "name": "Meta Llama 3.2 3B Instruct",
+    "org": "Meta",
+    "parameters": "3B"
+  },
+  "metrics": {
+    "modelA": {
+      "retrievalAccuracy": 90,
+      "answerCorrectness": 85,
+      "answerRelevance": 95,
+      "hallucinationRate": 10,
+      "retrievalCount": "18/20",
+      "correctnessCount": "17/20",
+      "relevanceCount": "19/20",
+      "hallucinationCount": "2/20"
+    },
+    "modelB": {
+      "retrievalAccuracy": 90,
+      "answerCorrectness": 95,
+      "answerRelevance": 100,
+      "hallucinationRate": 5,
+      "retrievalCount": "18/20",
+      "correctnessCount": "19/20",
+      "relevanceCount": "20/20",
+      "hallucinationCount": "1/20"
+    }
+  }
+}

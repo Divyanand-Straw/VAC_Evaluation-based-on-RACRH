@@ -1,0 +1,177 @@
+[
+  {
+    "id": "FAQ-001",
+    "topic": "Clinic Hours",
+    "question": "What are the operating hours of the clinic?",
+    "context": "HopeWell Family Clinic operates Monday to Friday from 8:00 AM to 8:00 PM, Saturdays from 9:00 AM to 5:00 PM, and Sundays from 10:00 AM to 2:00 PM. Emergency services operate 24/7.",
+    "answer": "The clinic is open Mon-Fri (8 AM - 8 PM), Sat (9 AM - 5 PM), and Sun (10 AM - 2 PM). Emergency services are available 24/7."
+  },
+  {
+    "id": "FAQ-002",
+    "topic": "Appointment Booking",
+    "question": "How can I book an appointment with a doctor?",
+    "context": "Appointments can be booked online through the clinic website patient portal, by calling the reception desk at (555) 019-2834, or in person at the front desk. Walk-ins are accepted based on doctor availability.",
+    "answer": "You can book an appointment online via the patient portal, by phone at (555) 019-2834, or in person. Walk-ins depend on availability."
+  },
+  {
+    "id": "FAQ-003",
+    "topic": "Appointment Cancellation",
+    "question": "What is the policy for cancelling an appointment?",
+    "context": "Patients must cancel or reschedule appointments at least 24 hours prior to the scheduled time to avoid a $25 late cancellation fee. Cancellations can be completed online or via phone.",
+    "answer": "Cancellations must be made at least 24 hours in advance to avoid a $25 fee. You can cancel online or by phone."
+  },
+  {
+    "id": "FAQ-004",
+    "topic": "Rescheduling",
+    "question": "How do I reschedule my existing appointment?",
+    "context": "To reschedule an appointment, log into your patient portal account up to 24 hours before your visit, select 'My Visits', and pick a new available time slot. Alternatively, call reception at (555) 019-2834.",
+    "answer": "Reschedule via the patient portal under 'My Visits' at least 24 hours prior, or call reception at (555) 019-2834."
+  },
+  {
+    "id": "FAQ-005",
+    "topic": "Blood Test Preparation",
+    "question": "How should I prepare for a routine blood test?",
+    "context": "Fasting blood sugar and lipid profile tests require fasting for 8 to 12 hours prior to the test. Water is permitted. Continue taking prescribed medications unless explicitly instructed otherwise by your doctor.",
+    "answer": "Fast for 8 to 12 hours before fasting blood sugar or lipid tests. Plain water is allowed. Take regular medications unless doctor says otherwise."
+  },
+  {
+    "id": "FAQ-006",
+    "topic": "Consultation",
+    "question": "What happens during a general physician consultation?",
+    "context": "A standard consultation lasts 15–20 minutes and includes vital signs assessment, medical history review, physical examination, symptom evaluation, diagnostic test orders, and prescription issuance.",
+    "answer": "A 15-20 min consultation includes vital checks, medical history review, examination, diagnostic orders, and prescriptions."
+  },
+  {
+    "id": "FAQ-007",
+    "topic": "Follow-up",
+    "question": "When should I schedule a follow-up consultation?",
+    "context": "Follow-up consultations are generally recommended within 7 to 14 days after starting new medications or after receiving diagnostic test results. Follow-up visits booked within 10 days receive a 20% consultation discount.",
+    "answer": "Schedule follow-up within 7-14 days after starting new treatment or receiving lab results. Visits within 10 days get a 20% discount."
+  },
+  {
+    "id": "FAQ-008",
+    "topic": "Required Documents",
+    "question": "What documents do I need to bring for my first visit?",
+    "context": "First-time patients must present a government-issued photo ID (driver's license or passport), active health insurance card, a list of current medications, and any recent medical records or lab test reports.",
+    "answer": "Bring a photo ID, valid insurance card, list of current medications, and previous medical reports."
+  },
+  {
+    "id": "FAQ-009",
+    "topic": "Payment Methods",
+    "question": "What payment methods are accepted at the clinic?",
+    "context": "HopeWell Family Clinic accepts major credit cards (Visa, MasterCard, Amex), debit cards, contactless mobile payments (Apple Pay, Google Pay), cash, and direct insurance billing for network providers.",
+    "answer": "We accept major credit/debit cards, Apple Pay, Google Pay, cash, and direct health insurance billing."
+  },
+  {
+    "id": "FAQ-010",
+    "topic": "Pharmacy",
+    "question": "Does the clinic have an in-house pharmacy?",
+    "context": "Yes, HopeWell Pharmacy is located on the 1st floor of the clinic building. It is open Mon-Sat 8:00 AM to 7:00 PM and offers prescription fulfillment, over-the-counter medicines, and medication counselling.",
+    "answer": "Yes, HopeWell Pharmacy is on the 1st floor, open Mon-Sat 8 AM to 7 PM for prescriptions and OTC medicines."
+  },
+  {
+    "id": "FAQ-011",
+    "topic": "Laboratory",
+    "question": "What are the operating hours and location of the lab?",
+    "context": "The diagnostic pathology laboratory is situated on the 2nd floor, Room 204. Sample collections take place Monday through Saturday from 7:30 AM to 4:00 PM. No appointment is needed for routine blood/urine draws.",
+    "answer": "The lab is on the 2nd floor, Room 204. Sample collection is Mon-Sat 7:30 AM - 4:00 PM. Walk-ins accepted for routine tests."
+  },
+  {
+    "id": "FAQ-012",
+    "topic": "X-ray",
+    "question": "Do I need an appointment for X-ray imaging?",
+    "context": "Standard digital X-ray services are available on a walk-in basis with a doctor's referral slip, Monday through Friday between 8:30 AM and 5:00 PM. Specialized contrast X-rays require booking in advance.",
+    "answer": "Standard X-rays are walk-in Mon-Fri 8:30 AM - 5:00 PM with a doctor's referral. Specialized contrast X-rays require advance booking."
+  },
+  {
+    "id": "FAQ-013",
+    "topic": "Ultrasound",
+    "question": "How do I prepare for an abdominal ultrasound?",
+    "context": "Abdominal ultrasound scans require patients to fast (no food or drinks except water) for 6 hours prior to the scan. Pelvic ultrasound requires drinking 32 oz of water 1 hour before the exam to fill the bladder.",
+    "answer": "Fast for 6 hours before abdominal ultrasound. For pelvic ultrasound, drink 32 oz of water 1 hour prior to keep bladder full."
+  },
+  {
+    "id": "FAQ-014",
+    "topic": "MRI Referral",
+    "question": "Can I get an MRI scan directly at the clinic?",
+    "context": "HopeWell Family Clinic does not house MRI equipment on-site. Our physicians issue digital MRI referrals to Metro Imaging Center located 2 miles away, with prioritized scheduling for clinic patients.",
+    "answer": "MRI is not available on-site. Doctors issue referrals to Metro Imaging Center (2 miles away) with priority booking."
+  },
+  {
+    "id": "FAQ-015",
+    "topic": "Prescription",
+    "question": "How do I request a prescription refill?",
+    "context": "Prescription refills can be requested through the patient portal or by having your pharmacy send an electronic refill request. Refills take 24–48 business hours to process. Maintenance drugs require an annual doctor review.",
+    "answer": "Request refills via the patient portal or through your pharmacy. Processing takes 24-48 business hours."
+  },
+  {
+    "id": "FAQ-016",
+    "topic": "Medical Reports",
+    "question": "How long does it take to get laboratory test results?",
+    "context": "Routine blood work and urine test results are uploaded to the patient portal within 24 to 48 hours. Specialized lab panels, biopsies, and culture tests take 3 to 7 business days.",
+    "answer": "Routine lab test results are ready in 24-48 hours on the patient portal. Specialized tests take 3-7 business days."
+  },
+  {
+    "id": "FAQ-017",
+    "topic": "Contact Information",
+    "question": "What are the clinic's phone number and email address?",
+    "context": "Main Desk Phone: (555) 019-2834. Appointment Desk: (555) 019-2835. Email: contact@hopewellclinic.org. Address: 742 Evergreen Medical Way, Suite 100, Springfield.",
+    "answer": "Phone: (555) 019-2834 | Email: contact@hopewellclinic.org | Address: 742 Evergreen Medical Way, Suite 100."
+  },
+  {
+    "id": "FAQ-018",
+    "topic": "Emergency Policy",
+    "question": "What should I do in case of a medical emergency?",
+    "context": "For life-threatening emergencies (chest pain, severe breathlessness, stroke symptoms, major trauma), call 911 immediately or visit the hospital emergency department. The clinic emergency urgent care unit handles non-life-threatening urgent cases.",
+    "answer": "Call 911 or go to an ER for life-threatening emergencies. The clinic urgent care handles minor urgent medical issues."
+  },
+  {
+    "id": "FAQ-019",
+    "topic": "Waiting Time",
+    "question": "What is the average waiting time for appointments?",
+    "context": "Average wait time for scheduled appointments is 10 to 15 minutes. Walk-in patients may experience wait times of 30 to 60 minutes depending on urgent care volume and doctor schedule.",
+    "answer": "Scheduled visits wait ~10-15 minutes. Walk-in patients wait ~30-60 minutes based on daily patient volume."
+  },
+  {
+    "id": "FAQ-020",
+    "topic": "Departments",
+    "question": "What medical specialties and departments are available?",
+    "context": "HopeWell Family Clinic offers General Internal Medicine, Pediatrics, Obstetrics & Gynecology, Dermatology, Cardiology Consultations, Orthopedics, and Preventive Wellness.",
+    "answer": "Departments include Internal Medicine, Pediatrics, OB/GYN, Dermatology, Cardiology, Orthopedics, and Preventive Wellness."
+  },
+  {
+    "id": "FAQ-021",
+    "topic": "Health Checkup",
+    "question": "Does the clinic offer annual preventive health checkup packages?",
+    "context": "Yes, the clinic offers Basic, Comprehensive, and Senior Executive annual checkup packages. Packages include complete blood count, lipid profile, liver/kidney function tests, ECG, and doctor consultation.",
+    "answer": "Yes, Basic, Comprehensive, and Senior Executive annual packages are available including blood work, ECG, and doctor consultation."
+  },
+  {
+    "id": "FAQ-022",
+    "topic": "Insurance",
+    "question": "Which health insurance providers are accepted?",
+    "context": "HopeWell Family Clinic is in-network with BlueCross BlueShield, Aetna, Cigna, UnitedHealthcare, Medicare, and Medicare Advantage plans. Pre-authorization assistance is provided at the insurance desk.",
+    "answer": "In-network with BlueCross, Aetna, Cigna, UnitedHealthcare, and Medicare. Pre-authorization support is available."
+  },
+  {
+    "id": "FAQ-023",
+    "topic": "Visitor Policy",
+    "question": "Can family members or visitors accompany me during my visit?",
+    "context": "Patients may bring up to two adult visitors or family members into the consultation room. Pediatric patients must be accompanied by a parent or legal guardian.",
+    "answer": "Up to 2 adult visitors may accompany adult patients. Minors/pediatric patients must have a parent/guardian present."
+  },
+  {
+    "id": "FAQ-024",
+    "topic": "Online Consultation",
+    "question": "Are telemedicine or online video consultations available?",
+    "context": "Telemedicine video appointments are available Monday through Friday for follow-up visits, prescription renewals, and minor illness reviews via the secure clinic web portal or mobile app.",
+    "answer": "Yes, video consultations are available Mon-Fri for follow-ups, minor illness, and refills via clinic web portal or app."
+  },
+  {
+    "id": "FAQ-025",
+    "topic": "Report Collection",
+    "question": "How can I obtain physical copies of my medical reports?",
+    "context": "Physical diagnostic reports and medical charts can be picked up at Medical Records (Room 105) Monday to Friday 9 AM to 4 PM upon producing valid photo ID, or requested for postal delivery for a $5 mailing fee.",
+    "answer": "Collect physical reports at Room 105 (Mon-Fri 9 AM - 4 PM) with photo ID, or request postal delivery for a $5 fee."
+  }
+]
