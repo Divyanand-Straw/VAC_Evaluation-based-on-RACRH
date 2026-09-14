@@ -2,7 +2,6 @@
   "name": "ai-clinic-assistant-evaluation",
   "version": "1.0.0",
   "description": "Academic RAG & Hugging Face Model Evaluation Platform with Secure Server-Side Inference",
-  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js",

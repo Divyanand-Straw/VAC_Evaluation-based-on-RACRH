@@ -1,17 +1,35 @@
 {
   "version": 2,
-  "rewrites": [
+  "builds": [
     {
-      "source": "/api/test-connection",
-      "destination": "/api/test-connection.js"
+      "src": "api/*.js",
+      "use": "@vercel/node"
     },
     {
-      "source": "/api/inference",
-      "destination": "/api/inference.js"
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/test-connection",
+      "dest": "/api/test-connection.js"
     },
     {
-      "source": "/api/save-token",
-      "destination": "/api/save-token.js"
+      "src": "/api/inference",
+      "dest": "/api/inference.js"
+    },
+    {
+      "src": "/api/save-token",
+      "dest": "/api/save-token.js"
+    },
+    {
+      "src": "/favicon.ico",
+      "dest": "/logo.png"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
     }
   ]
 }
